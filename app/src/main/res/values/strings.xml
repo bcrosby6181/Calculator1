@@ -1,0 +1,22 @@
+<resources>
+
+
+    <string name="app_name">Calculator</string>
+    <string name="designed_by">designed by</string>
+    <string name="designer">Bradford Crosby</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="times_button">*</string>
+    <string name="division_button">/</string>
+    <string name="equals_button">=</string>
+
+    <string name="input_1">Input 1</string>
+    <string name="input_2">Input 2</string>
+    <string name="output">Output</string>
+    <string name="plusbutton">+</string>
+
+    <string name="invalid_entry">Invalid entry. Please enter a number.</string>
+
+
+
+</resources>
